@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alpha Finance is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by multicoin-capital) and added to the network as a stub for full-pipeline profiling.
-- https://alphafinance.io
+Alpha Finance provides a free crypto market data terminal offering real-time liquidation heatmaps, funding rates, ETF flows, corporate treasury insights, DeFi yields, and on-chain data. The platform aggregates diverse crypto market metrics into a single interface, enabling traders and analysts to monitor market dynamics, assess risk, and discover investment opportunities across multiple assets and exchanges.
+
+**Areas:** Company · Crypto · Data · Market · Terminal
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://alphafinance.io)
+- [Blog](https://alphfinance.io/blog/)
+- [Terms of service](https://alphafinance.io/terms/)
+- [Privacy policy](https://alphafinance.io/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/alphafinance-io/](https://apis.io/providers/alphafinance-io/).
